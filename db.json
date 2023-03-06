@@ -3,14 +3,14 @@
     {
       "id": 1,
       "name": "Kenzi Solazur",
-      "img": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/23317158.jpg?k=d6efbe992bb05e7f029b0bc5a28b6db277cb419b91ac0f9d3fb5164d9a293283&o=&hp=1",
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/23279503.jpg",
       "chambres":[
         {
           "num":1,
           "type":"Standard Single Room",
           "description":"Room Size 20 m² \nComfy beds, 6.7 – Based on 1,597 reviews\nThis single room features air conditioning, bathrobe and mini-bar.\nIn your private bathroom:\nFree toiletries\nBathrobe\nToilet\nBathtub or shower",
           "prix":1500,
-          "img":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/88757173.jpg?k=dce82b1b4ff438538856af45b9fc7d189159972d042032636915ed9ac3ebbe24&o=g"
+          "img":"https://cf.bstatic.com/xdata/images/hotel/max1280x900/23279503.jpg"
         },
          {
           "num":2,
