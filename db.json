@@ -3,14 +3,14 @@
     {
       "id": 1,
       "name": "Kenzi Solazur",
-      "img": "",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tanger_cor.jpg/419px-Tanger_cor.jpg",
       "chambres":[
         {
           "num":1,
           "type":"Standard Single Room",
           "description":"Room Size 20 m² \nComfy beds, 6.7 – Based on 1,597 reviews\nThis single room features air conditioning, bathrobe and mini-bar.\nIn your private bathroom:\nFree toiletries\nBathrobe\nToilet\nBathtub or shower",
           "prix":1500,
-          "img":""
+          "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tanger_cor.jpg/419px-Tanger_cor.jpg"
         },
          {
           "num":2,
