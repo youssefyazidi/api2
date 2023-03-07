@@ -52,57 +52,57 @@
     ,
     {
       "id": 3,
-      "name": "Egypte",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/165px-Flag_of_Egypt.svg.png",
+      "name": "Ibis Tanger City Center",
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45745024.jpg?k=31b86666b3221d09e7b4c1256ce82722ba90bec182cdf47f3b47da81eb893018&o=&hp=1",
        "chambres":[]
     }
     ,
     {
       "id": 4,
-      "name": "Tunisie",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/165px-Flag_of_Tunisia.svg.png",
+      "name": "Grand Mogador Sea View & Spa",
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/41885098.jpg?k=ad33fe8213fd857facb3f9edd4b915e837a527de17d558feb9041a49ff11fe3f&o=&hp=1",
       "chambres":[]
     }
     ,
     {
       "id": 5,
-      "name": "Espagne",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/165px-Flag_of_Spain.svg.png",
+      "name": "Hilton Garden Inn Tanger City Centre",
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/60843791.jpg?k=5aedf1fc3c9d3a254cf7c4952c511769dc397ad3ec67e12ec5fc0994c9027e89&o=&hp=1",
       "chambres":[]
     }
     ,
     {
       "id": 6,
-      "name": "Bresil",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/165px-Flag_of_Brazil.svg.png",
+      "name": "Hotel Continental",
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/20970227.jpg?k=5ff45e58a3ce73189ebd41090f843676178702614fb44b36f817b04e9de22142&o=&hp=1",
       "chambres":[]
     }
     ,
     {
       "id": 7,
-      "name": "France",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/165px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png",
+      "name": "Hilton Tanger City Center",
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/121556667.jpg?k=a911a00e4a0fa7021a9d21ead3c805e1933fc3f0eeef67c24e0e71dc4e7fead9&o=&hp=1",
       "chambres":[]
     }
     ,
     {
       "id": 8,
-      "name": "Italie",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/165px-Flag_of_Italy.svg.png",
+      "name": "Mövenpick Hotel",
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/275710408.jpg?k=6418eb2bd3fa39c690e8e076b07925d2be2f36083895888385ae3bf12ea7588f&o=&hp=1",
       "chambres":[]
     }
     ,
     {
       "id": 9,
-      "name": "Turquie",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/165px-Flag_of_Turkey.svg.png",
+      "name": "Marina Bay",
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/225539027.jpg?k=0e208146c0ee99d84a56512914d7254a3f49b1bd2ba97138690ad26f9cde1a4d&o=&hp=1",
       "chambres":[]
     }
     ,
     {
       "id": 10,
-      "name": "Portugal",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/165px-Flag_of_Portugal.svg.png",
+      "name": "El Minzah Hotel",
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/223929262.jpg?k=142f9e681cebe336c1206f3202480096390474b8aac01417302e19ba3a51bd30&o=&hp=1",
       "chambres":[]
     }
   ]
